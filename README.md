@@ -60,28 +60,24 @@ To participate, you must be:
 
 | Action  | Date |
 | ------------- | ------------- |
-| Assignment Published | 10/01/2023 |
-| Assignment Deadline | 10/14/2023 |
-| Octernship Start | 11/01/2023 |
-| Octernship End | 01/31/2024 |
+| Assignment Published | 11/01/2023 |
+| Assignment Deadline | 11/14/2023 |
+| Octernship Start | 12/01/2023 |
+| Octernship End | 02/28/2024 |
 
 # Assignment
 
-## Submit your profile.
+## Build a ruleset transaltor app.
 
-### Task instructions 📝
+### Task instructions 📝 and Expectations 👩‍💻👨‍💻
 
-This is simple. We want to know more about you and what you have done till date, and so:
-- Share your resume in a PDF format.
-- Bring up the project/work that you're most proud of. What was the most challenging part? Why? How did you solve it? How did you come up with the solution?
-- What's the most challenging thing you have done as a part of project/work on Github or Git?
-- Why are you interested in the cybersecurity and the open-soure space?
-- Share links to your projects/work (if not already mentioned in resume).
-
-### Task Expectations 👩‍💻👨‍💻
-
-Try to be authentic about your profile and answers, it's easy to defer otherwise.
+Build a reactJS web app that can take a ruleset and translate it into any SIEM search query, using [Sigma](https://github.com/SigmaHQ/sigma). For more context, look at [this issue](https://github.com/Shuffle/python-apps/issues/148).
 
 ### Task submission 🚀
 
-Simply submit a doc link with everything -- Resume, answers, and links.
+Submit the app files here.
+
+### Resources 📚
+
+- Sigma - https://github.com/SigmaHQ/sigma
+- Uncoder - https://uncoder.io
