@@ -75,7 +75,8 @@ Build a reactJS web app that can take a ruleset and translate it into any SIEM s
 
 ### Task submission 🚀
 
-Submit the app files here.
+1. Apply to this assignment via GitHub Octernships [Dashboard](https://education.github.com/students/octernships)
+2. Submit the app files here. 
 
 ### Resources 📚
 
